@@ -14,3 +14,8 @@ neu veröffentlicht.
 - eine Startseite aus `index.md`
 - eine Jekyll-Konfiguration in `_config.yml`
 - ein erster Blogpost unter `_posts/`
+
+## Warum das funktioniert
+
+Jekyll liest das Frontmatter, wendet das Theme an und erzeugt statisches HTML.
+GitHub Pages baut daraus bei jedem Push eine neue Version.

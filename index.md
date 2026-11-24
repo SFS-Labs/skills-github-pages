@@ -24,3 +24,7 @@ GitHub Pages baut daraus bei jedem Push eine neue Version.
 
 `index.md` ist die Startseite, `_config.yml` trägt Theme und Metadaten,
 `_posts/` enthält datierte Beiträge.
+
+## Nächster Schritt
+
+Weitere Beiträge folgen.

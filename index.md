@@ -19,3 +19,8 @@ neu veröffentlicht.
 
 Jekyll liest das Frontmatter, wendet das Theme an und erzeugt statisches HTML.
 GitHub Pages baut daraus bei jedem Push eine neue Version.
+
+## Struktur
+
+`index.md` ist die Startseite, `_config.yml` trägt Theme und Metadaten,
+`_posts/` enthält datierte Beiträge.
